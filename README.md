@@ -1,5 +1,5 @@
 # GuiaLabDPS
-Desarrollo de Guías / Diseño y Programación de Software Multiplataforma
+Desarrollo de Guías / Diseño y Programación de Software Multiplataforma /
 Presenta: Daniel Benavides - BH152202
 
 Descripción de los puntos:
