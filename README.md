@@ -6,7 +6,7 @@ Descripción de los puntos:
 
 1. Se creó este repositorio remoto para versionar el archivo primerversion.html según las indicaciones de la guía 1.
   - En el raíz de la rama "master" encontrará el archivo original primerversion.html de los primeros 3 puntos del análisis de resultados.
-  - Comandos utilizados: git remote add origin https://github.com/dbenavides97/GuiaLabDPS.git, git status, git add *, git commit -m, git push -f origin master.
+  - Comandos utilizados: git remote add origin https://github.com/dbenavides97/GuiaLabDPS.git, git init, git status, git add *, git commit -m, git push -f origin master.
 
 2. Se clonó el archivo primerversion.html dentro de la subcarpeta guia01, se pidió la colaboración de iacr-10 (Irvin Castro) y seguimos las indicaciones.
   - Se pudo observar que los cambios que realicé yo desaparecieron cuando mi colaborador hizo el push de los suyos en la misma rama.
