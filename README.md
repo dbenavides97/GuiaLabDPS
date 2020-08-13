@@ -19,6 +19,6 @@ Descripción de los puntos:
   
 4. Se clonó el archivo primerversion.html dentro de la subcarpeta guia03 y se crearon las ramas: Des, Pru y Pro.
   - En la rama Pru se colocó dentro de guia03/primerversion.html --> <*h1*>Rama Desarrollo Pruebas<*/h1*>.
-  - En la rama Des se deshicieron los cambios y para efectos de identificación se colocó dentro de guia03/primerversion.html --> <h1>Rama Des</h1>.
+  - En la rama Des se deshicieron los cambios y para efectos de identificación se colocó dentro de guia03/primerversion.html --> <*h1*>Rama Des<*/h1*>.
   - En la rama Pro no se subió nada porque no estaba especificado en las indicaciones.
   - Comandos utilizados: git branch, git checkout, git push -f origin <branch>.
