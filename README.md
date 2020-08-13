@@ -15,10 +15,10 @@ Descripción de los puntos:
 3. Se clonó el archivo primerversion.html dentro de la subcarpeta guia02 y se crearon las ramas: Desarrollo, Pruebas y Producción.
   - En cada rama se colocó un <*h1*><*/h1*> como identificador dentro guia02/primerversion.html para diferenciar que el archivo pertenece a "X" rama.
   - Por ejemplo: En la rama Desarrollo se colocó dentro de guia02/primerversion.html --> <*h1*>Rama Desarrollo<*/h1*> y así sucesivamente con el resto.
-  - Comandos utilizados: git branch, git checkout, git push -f origin <branch>.
+  - Comandos utilizados: git branch, git checkout, git push -f origin <*branch*>.
   
 4. Se clonó el archivo primerversion.html dentro de la subcarpeta guia03 y se crearon las ramas: Des, Pru y Pro.
   - En la rama Pru se colocó dentro de guia03/primerversion.html --> <*h1*>Rama Desarrollo Pruebas<*/h1*>.
   - En la rama Des se deshicieron los cambios y para efectos de identificación se colocó dentro de guia03/primerversion.html --> <*h1*>Rama Des<*/h1*>.
   - En la rama Pro no se subió nada porque no estaba especificado en las indicaciones.
-  - Comandos utilizados: git branch, git checkout, git push -f origin <branch>.
+  - Comandos utilizados: git branch, git checkout, git push -f origin <*branch*>.
